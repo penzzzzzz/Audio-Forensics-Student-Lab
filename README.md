@@ -8,7 +8,7 @@ Instructor: Daniel Peña
 
 ## 🎵 Download large files
 To get the audio and Audacity:
-Go to the **Releases** page (right sidebar or https://github.com/YOURNAME/YOURREPO/releases)  
+Go to the **Releases** page (right sidebar or (https://github.com/penzzzzzz/Audio-Forensics-Student-Lab/releases/tag/v1.0))  
 Download:
 - harlandale1.wav  
 - harlandale2.wav  
